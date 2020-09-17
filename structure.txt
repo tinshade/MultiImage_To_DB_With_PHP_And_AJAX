@@ -1,9 +1,8 @@
 --
--- Database: `testing`
+-- Database: `amidb`
 --
 
 -- --------------------------------------------------------
--- https://www.youtube.com/watch?v=kpGLb76iqro
 -- --------------------------------------------------------
 -- Table structure for table `tbl_images`
 --
